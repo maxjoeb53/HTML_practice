@@ -1,2 +1,2 @@
 # HTML_practice
-Tracking my work learning HTML
+Learning HTML through an online bootcamp and tracking code and progress below
